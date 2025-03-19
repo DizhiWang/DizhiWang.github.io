@@ -6,7 +6,7 @@ title: "Dizhi Wang"
 classes: wide
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: auto; min-height: 50vh;">
     <img src="/images/wdz.jpg" width="300" style="margin-right: 40px; flex-shrink: 0;" /> 
 
     <div style="flex-grow: 1;">
@@ -22,6 +22,7 @@ classes: wide
         </p>
     </div>
 </div>
+
 
 
 
