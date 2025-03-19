@@ -26,10 +26,10 @@ minimal_mistakes_skin    : "default" # ""default" # "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Guanghong Xu"
+title                    : "Dizhi Wang"
 title_separator          : "-"
 subtitle                 : #"Actuarial & Analytics Studies" # site tagline that appears below site title in masthead
-name                     : "Guanghong Xu"
+name                     : "Dizhi Wang"
 description              : #"Actuarial & Analytics Services"
 url                      : "https://guanghongxu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
