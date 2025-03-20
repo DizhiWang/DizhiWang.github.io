@@ -8,22 +8,21 @@ classes: wide
 
 <style>
   .profile-container {
-    display: flex; 
-    align-items: flex-start; /* Aligns top of text with top of image */
-    gap: 40px; /* Creates space between image and text */
+    display: flex;
+    align-items: flex-start; /* Ensures text aligns with the top of the image */
+    gap: 20px; /* Creates space between image and text */
   }
 
   .profile-image {
     width: 300px;
-    flex-shrink: 0;
-    margin-top: 50px; /* Small adjustment if needed */
+    flex-shrink: 0; /* Prevents image from resizing */
   }
 
   .text-content {
-    max-width: 1000px;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centers text vertically with image */
+    justify-content: flex-start; /* Ensures text starts at the top */
   }
 </style>
 
@@ -46,3 +45,4 @@ classes: wide
     <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
   </div>
 </div>
+
