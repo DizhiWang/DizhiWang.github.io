@@ -7,7 +7,7 @@ classes: wide
 ---
 <style>
   .content-wrapper {
-    margin-top: 100px; /* This moves everything down */
+    margin-top: 500px; /* This moves everything down */
   }
 </style>
 
