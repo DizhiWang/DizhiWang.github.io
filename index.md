@@ -1,23 +1,22 @@
 <style>
   .content-wrapper {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 900px; /* Adjust width to control layout */
-    margin: 50px auto; /* Center the container */
-    gap: 40px; /* Increased space between image and text */
+    max-width: 700px;
+    margin: 80px auto; /* Increased vertical spacing */
+    text-align: center;
   }
 
   .content-wrapper img {
-    width: 250px; /* Adjust image size */
-    flex-shrink: 0; /* Prevents image from shrinking */
-    border-radius: 8px; /* Optional: Rounded corners */
-    margin-right: 30px; /* Space to the right of the image */
+    width: 300px; /* Keep image at a good size */
+    border-radius: 8px;
+    margin-bottom: 30px; /* More spacing below the image */
   }
 
   .text-content {
-    max-width: 650px; /* Increase text width for more breathing room */
-    line-height: 1.6; /* Adds more space between text lines */
+    line-height: 1.8; /* More space between text lines */
   }
 </style>
 
