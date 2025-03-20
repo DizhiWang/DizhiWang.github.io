@@ -17,7 +17,7 @@ classes: wide
     width: 300px;
     flex-shrink: 0; /* Prevents image from resizing */
     margin-right: 40px;
-    margin-top: 40px;
+    margin-top: 80px;
 
   }
 
@@ -33,8 +33,9 @@ classes: wide
   <img src="/images/wdz.jpg" class="profile-image" />
 
   <div class="text-content">
-    <p>
+    <p> </p>
     <p><strong>Welcome!</strong></p>
+    
     <p>
   
       I am a Ph.D. student in Economics at the 
