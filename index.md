@@ -8,7 +8,15 @@ classes: wide
 
 <img src="/images/wdz.jpg" width="300" class="profile-image" />
 
+<style>
+  .profile-image {
+    float: left;
+    margin-right: 40px;
+    margin-top: 40px;
+    display: block;
+  }
 
+</style>
 
 
 <div class="text-content">
@@ -28,14 +36,7 @@ classes: wide
 </div>
 
 <style>
-  .profile-image {
-    float: left;
-    margin-right: 40px;
-    margin-top: 40px;
-    display: block;
-  }
-
-  .text-content {
-    margin-top: 100px; /* Moves text down to match image */
+.text-content {
+    margin-top: 60px; /* Moves text down to match image */
   }
 </style>
