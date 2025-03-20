@@ -6,8 +6,8 @@ title: "Dizhi Wang"
 classes: wide
 ---
 <style>
-  .content-wrapper {
-    margin-top: 500px; /* This moves everything down */
+  main {
+    padding-top: 200px; /* Pushes everything down */
   }
 </style>
 
