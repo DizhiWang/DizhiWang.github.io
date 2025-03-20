@@ -2,10 +2,9 @@
   .content-wrapper {
     display: flex;
     align-items: center;
-    justify-content: center;
-    max-width: 900px; /* Keep layout balanced */
-    margin: 150px auto; /* Push content down */
-    gap: 40px; /* Space between image and text */
+    max-width: 900px; /* Keeps the same side margin */
+    margin: 200px auto 0 auto; /* Moves everything down while keeping left alignment */
+    gap: 50px; /* Space between image and text */
     padding: 20px;
   }
 
@@ -16,7 +15,7 @@
   }
 
   .text-content {
-    max-width: 600px;
+    max-width: 550px;
     line-height: 1.6;
   }
 
@@ -41,6 +40,5 @@
     <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
   </div>
 </div>
-
 
 
