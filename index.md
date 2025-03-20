@@ -17,7 +17,7 @@ classes: wide
     width: 300px;
     flex-shrink: 0; /* Prevents image from resizing */
     margin-right: 40px;
-    margin-top: 80px;
+    margin-top: 100px;
 
   }
 
@@ -34,6 +34,9 @@ classes: wide
 
   <div class="text-content">
     <p>&nbsp;</p>
+    
+    <p>&nbsp;</p>
+    
     <p><strong>Welcome!</strong></p>
     
     <p>
