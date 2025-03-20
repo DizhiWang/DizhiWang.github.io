@@ -5,11 +5,7 @@ permalink: /
 title: "Dizhi Wang"
 classes: wide
 ---
-<style>
-  main {
-    padding-top: 200px; /* Pushes everything down */
-  }
-</style>
+
 
 <img src="/images/wdz.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
 
