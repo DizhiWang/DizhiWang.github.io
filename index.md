@@ -33,7 +33,7 @@ classes: wide
   <img src="/images/wdz.jpg" class="profile-image" />
 
   <div class="text-content">
-    <p> </p>
+    <p>&nbsp;</p>
     <p><strong>Welcome!</strong></p>
     
     <p>
