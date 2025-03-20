@@ -6,18 +6,20 @@ title: "Dizhi Wang"
 classes: wide
 ---
 
-<img src="/images/wdz.jpg" width="300" class="profile-image" />
-
 <style>
   .profile-image {
-    float: left;
-    margin-right: 40px;
-    margin-top: 40px;
+    float: left; /* Keeps image on the left */
+    margin-right: 40px; /* Creates space between image and text */
+    margin-top: 40px; /* Adjusts vertical alignment */
     display: block;
   }
 
+  .text-content {
+    overflow: hidden; /* Ensures text flows properly */
+  }
 </style>
 
+<img src="/images/wdz.jpg" width="300" class="profile-image" />
 
 <div class="text-content">
   <p><strong>Welcome!</strong></p>
@@ -34,9 +36,3 @@ classes: wide
 
   <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
 </div>
-
-<style>
-.text-content {
-    margin-top: 100px; /* Moves text down to match image */
-  }
-</style>
