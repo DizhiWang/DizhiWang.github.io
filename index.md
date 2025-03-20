@@ -6,13 +6,13 @@ title: "Dizhi Wang"
 classes: wide
 ---
 
-
 <img src="/images/wdz.jpg" width="300" class="profile-image" />
 
 <style>
   .profile-image {
     float: left;
     margin-right: 40px;
+    margin-top: 40px;
     display: block;
   }
 </style>
