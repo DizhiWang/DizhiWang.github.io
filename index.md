@@ -30,7 +30,7 @@ classes: wide
 </style>
 
 <div class="profile-container">
-  <img src="/images/wdz.jpg" class="profile-image" />
+  <img src="/images/dzw.jpg" class="profile-image" />
 
   <div class="text-content">
     <p>&nbsp;</p>
