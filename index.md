@@ -14,7 +14,7 @@ classes: wide
   }
 
   .profile-image {
-    width: 500px;
+    width: 400px;
     flex-shrink: 0; /* Prevents image from resizing */
     margin-right: 40px;
     margin-top: 100px;
