@@ -6,7 +6,8 @@ title: "Dizhi Wang"
 classes: wide
 ---
 
-{% raw %}
+<img src="/images/wdz.jpg" width="300" class="profile-image" />
+
 <style>
   .profile-image {
     float: left;
@@ -19,9 +20,7 @@ classes: wide
     margin-top: 40px; /* Moves text down to match image */
   }
 </style>
-{% endraw %}
 
-<img src="/images/wdz.jpg" width="300" class="profile-image" />
 
 <div class="text-content">
   <p><strong>Welcome!</strong></p>
@@ -38,6 +37,4 @@ classes: wide
 
   <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
 </div>
-
-
 
