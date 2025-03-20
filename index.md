@@ -5,9 +5,11 @@ permalink: /
 title: "Dizhi Wang"
 classes: wide
 ---
-.content-wrapper {
-    margin-top: 100px; /* Just moves it down, nothing else changes */
-}
+<style>
+  .content-wrapper {
+    margin-top: 100px; /* This moves everything down */
+  }
+</style>
 
 <img src="/images/wdz.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
 
