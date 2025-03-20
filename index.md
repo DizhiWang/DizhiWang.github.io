@@ -6,8 +6,7 @@ title: "Dizhi Wang"
 classes: wide
 ---
 
-<img src="/images/wdz.jpg" width="300" class="profile-image" />
-
+{% raw %}
 <style>
   .profile-image {
     float: left;
@@ -15,13 +14,14 @@ classes: wide
     margin-top: 40px;
     display: block;
   }
-</style>
 
-
- .text-content {
+  .text-content {
     margin-top: 40px; /* Moves text down to match image */
   }
 </style>
+{% endraw %}
+
+<img src="/images/wdz.jpg" width="300" class="profile-image" />
 
 <div class="text-content">
   <p><strong>Welcome!</strong></p>
