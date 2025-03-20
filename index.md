@@ -12,7 +12,7 @@ classes: wide
   .profile-image {
     float: left;
     margin-right: 40px;
-    margin-top: 100px;
+    margin-top: 60px;
     display: block;
   }
 
@@ -37,6 +37,6 @@ classes: wide
 
 <style>
 .text-content {
-    margin-top: 100px; /* Moves text down to match image */
+    margin-top: 120px; /* Moves text down to match image */
   }
 </style>
