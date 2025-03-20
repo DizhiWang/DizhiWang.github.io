@@ -40,14 +40,14 @@ classes: wide
     <p><strong>Welcome!</strong></p>
     
     <p>
-  
+
       I am a Ph.D. student in Economics at the 
       <a href="https://economics.ucsc.edu/">University of California, Santa Cruz (UCSC)</a>, 
-      advised by Professor 
-      <a href="https://sites.google.com/view/acspearot/home">Alan Spearot</a>.
-      My research interests are in international trade and macroeconomics.
-      My work examines how capital mobility shapes globalization’s effects, 
-      particularly how firms, wages, and welfare respond to trade liberalization.
+      advised by <a href="https://sites.google.com/view/acspearot/home">Professor Alan Spearot</a>. 
+      My research focuses on international trade and macroeconomics, with an emphasis on how capital mobility 
+      shapes the effects of globalization. In particular, I study how firms, wages, and welfare respond 
+      to trade liberalization.
+
     </p>
 
     <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
