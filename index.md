@@ -8,18 +8,7 @@ classes: wide
 
 <img src="/images/wdz.jpg" width="300" class="profile-image" />
 
-<style>
-  .profile-image {
-    float: left;
-    margin-right: 40px;
-    margin-top: 40px;
-    display: block;
-  }
 
-  .text-content {
-    margin-top: 40px; /* Moves text down to match image */
-  }
-</style>
 
 
 <div class="text-content">
@@ -38,3 +27,15 @@ classes: wide
   <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
 </div>
 
+<style>
+  .profile-image {
+    float: left;
+    margin-right: 40px;
+    margin-top: 40px;
+    display: block;
+  }
+
+  .text-content {
+    margin-top: 40px; /* Moves text down to match image */
+  }
+</style>
