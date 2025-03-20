@@ -36,6 +36,6 @@ classes: wide
   }
 
   .text-content {
-    margin-top: 40px; /* Moves text down to match image */
+    margin-top: 100px; /* Moves text down to match image */
   }
 </style>
