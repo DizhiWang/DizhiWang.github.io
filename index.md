@@ -10,16 +10,19 @@ classes: wide
   .profile-container {
     display: flex;
     align-items: flex-start; /* Ensures text aligns with the top of the image */
-    gap: 20px; /* Creates space between image and text */
+    gap: 40px; /* Creates space between image and text */
   }
 
   .profile-image {
     width: 300px;
     flex-shrink: 0; /* Prevents image from resizing */
+    margin-right: 40px;
+    margin-top: 40px;
+
   }
 
   .text-content {
-    max-width: 600px;
+    max-width: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Ensures text starts at the top */
@@ -30,9 +33,10 @@ classes: wide
   <img src="/images/wdz.jpg" class="profile-image" />
 
   <div class="text-content">
-    <p><strong>Welcome!</strong></p>
-  
     <p>
+    <p><strong>Welcome!</strong></p>
+    <p>
+  
       I am a Ph.D. student in Economics at the 
       <a href="https://economics.ucsc.edu/">University of California, Santa Cruz (UCSC)</a>, 
       advised by Professor 
