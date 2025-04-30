@@ -8,7 +8,7 @@ classes: wide
 
 ## **Working Paper**  
 
-### **Globalization with Capital Integration and Spatial Deindustrialization**  [working paper](/files/Rev_Melitz_extended_with_mobile_capital.pdf).
+### **Globalization with Capital Integration and Spatial Deindustrialization**  [working paper](/files/Final_Melitz_extended_with_mobile_capital__womenIE.pdf).
 
 
 **Abstract**  
