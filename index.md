@@ -41,7 +41,7 @@ classes: wide
     
     <p>
 
-      I am a Ph.D. student in Economics at the 
+      I am a Ph.D. candidate in Economics at the 
       <a href="https://economics.ucsc.edu/">University of California, Santa Cruz (UCSC)</a>, 
       advised by <a href="https://sites.google.com/view/acspearot/home">Professor Alan Spearot</a>,
       with research interests in international trade and macroeconomics. My work examines how capital mobility shapes globalization’s effects, particularly how firms, wages, and welfare respond to trade liberalization.
