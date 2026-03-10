@@ -8,7 +8,7 @@ classes: wide
 
 ## **Working Paper**  
 
-### **Globalization with Capital Integration and Spatial Entry**  [working paper](/files/Job_Market_Paper__Dizhi_rev.pdf).
+### **Globalization with Capital Integration and Spatial Entry**  [working paper](/files/Job_Market_Paper_Dizhi_rev.pdf).
 
 
 **Abstract**  
