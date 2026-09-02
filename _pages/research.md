@@ -18,3 +18,6 @@ What does it mean when factories ”leave” a country? In standard trade models
 
 with [Holger Breinlich](https://www.surrey.ac.uk/people/holger-breinlich) and [Alan Spearot](https://sites.google.com/view/acspearot/home)
 
+
+**Abstract**  
+This paper analyses stock market reactions to the ``Liberation Day'' import tariffs announced on 2 April 2025. Motivated by theories of international trade, we regress abnormal returns on the industry-level exposure to import tariffs, as well as a measure of input cost shocks, capturing how the tariffs affected firms' costs of imported intermediate inputs. Consistent with theories of international trade, we find that higher tariffs on firms' imported intermediate inputs are associated with negative abnormal returns. Surprisingly, the direct impact of protective import tariffs is also negative. We show that this is driven by industries in which firms have a larger export share of total output, suggesting that the negative abnormal return reaction captures expectations of future retaliatory tariffs. 
