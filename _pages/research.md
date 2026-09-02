@@ -30,4 +30,4 @@ with [Alan Spearot](https://sites.google.com/view/acspearot/home)
 
 ### **The Interplay of Capital-Intensive Fixed Goods and Capital Mobility in Trade**
 
-### **Factor Mobility and Firm Entry in a Heckscher--Ohlin Economy**
+### **Comparative Advantage, Factor Mobility, and Firm Entry**
