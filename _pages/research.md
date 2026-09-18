@@ -22,11 +22,16 @@ with [Holger Breinlich](https://www.surrey.ac.uk/people/holger-breinlich) and [A
 **Abstract**  
 This paper analyses stock market reactions to the ``Liberation Day'' import tariffs announced on 2 April 2025. Motivated by theories of international trade, we regress abnormal returns on the industry-level exposure to import tariffs, as well as a measure of input cost shocks, capturing how the tariffs affected firms' costs of imported intermediate inputs. Consistent with theories of international trade, we find that higher tariffs on firms' imported intermediate inputs are associated with negative abnormal returns. Surprisingly, the direct impact of protective import tariffs is also negative. We show that this is driven by industries in which firms have a larger export share of total output, suggesting that the negative abnormal return reaction captures expectations of future retaliatory tariffs. 
 
+
+
 ## **Work in Progress**
 
-### **A Specific View of Global Trade Shocks**
+### **A Specific View of Global Trade Shocks**  [working in progress](/files/)
 
 with [Alan Spearot](https://sites.google.com/view/acspearot/home)
+
+**Abstract**  
+We develop simple sufficient statistics for the short and long-run gains from trade in a multi-industry Armington model with industry-specific capital, arbitrary country-by-industry differences in factor and input intensities, and circular input-output linkages.  Starting from a long-run equilibrium, the change in the price index from a return to autarky decomposes into three terms: the standard gains from trade formula with inputs, a factor proportions term that depends only on the share of capital in value-added before and after the shock, and a misallocation term that captures the cost of capital being stuck in its industry.  The misallocation term is a function of the change in each industry's share of total capital payments, and can therefore be quantified using national accounts data by industry, without any trade data or trade elasticities.  Using the World Input-Output Database, we find that specific factors raise the cost of autarky only modestly in the aggregate, adding 3.7\% to prices on average across 43 countries in 2014.  However, this masks large differences across capital owners: in the US, capital owners lose 4\% in the long run, while owners of textile capital gain 158\% in the short run and owners of machinery capital lose 46\%.  Since 1965, misallocation has become less important relative to the standard gains from trade, and industry-specific returns to autarky have shifted substantially, often in line with known shocks such as the phase-out of textile quotas.
 
 ### **The Interplay of Capital-Intensive Fixed Goods and Capital Mobility in Trade**
 
