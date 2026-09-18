@@ -14,7 +14,7 @@ classes: wide
 **Abstract**  
 I extend the Melitz (2003)–Chaney (2008) framework with roundabout production by introducing an integrated capital market in which capital moves frictionlessly across locations while labor remains immobile. In the model, a unilateral tariff increase shifts domestic expenditure toward domestic firms, raising domestic factor returns, which generate a positive income effect and induce capital inflows. The resulting capital inflow expands domestic production along both the intensive and, through endogenous firm entry, extensive margins. The extensive-margin response creates additional domestic varieties, dampening the tariff-induced increase in the price index. Together, the positive income effect and the dampened price response create scope for welfare gains even in the absence of tariff revenues. I quantify these mechanisms in a multi-region model using U.S. state-level and Chinese trade data and apply it to the 2018 U.S. policy of raising tariffs on Chinese imports. Model-predicted firm entry is positively correlated with subsequent establishment growth across U.S. states. The counterfactual predicts household welfare gains in most states, with larger predicted welfare gains associated with greater increases in Republican vote shares between the 2012 and 2016 presidential elections
 
-### **Interpreting “Liberation Day” Stock Returns through the Lens of International Trade Theory**  [working paper](/files/BSW_Liberation_Day_Stock_Returns.pdf)
+### **Interpreting “Liberation Day” Stock Returns through the Lens of International Trade Theory**  [working paper](/files/BSW%20Liberation%20Day%20Stock%20Returns.pdf)
 
 with [Holger Breinlich](https://www.surrey.ac.uk/people/holger-breinlich) and [Alan Spearot](https://sites.google.com/view/acspearot/home)
 
@@ -26,7 +26,7 @@ This paper analyses stock market reactions to the ``Liberation Day'' import tari
 
 ## **Work in Progress**
 
-### **A Specific View of Global Trade Shocks**  [work in progress](/files/paper_draft_v2)
+### **A Specific View of Global Trade Shocks**  [work in progress](/files/paper_draft_v2.pdf)
 
 with [Alan Spearot](https://sites.google.com/view/acspearot/home)
 
