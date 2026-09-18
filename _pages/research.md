@@ -26,7 +26,7 @@ This paper analyses stock market reactions to the ``Liberation Day'' import tari
 
 ## **Work in Progress**
 
-### **A Specific View of Global Trade Shocks**  [working in progress](/files/)
+### **A Specific View of Global Trade Shocks**  [working in progress](/files/paper_draft_v2)
 
 with [Alan Spearot](https://sites.google.com/view/acspearot/home)
 
