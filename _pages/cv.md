@@ -6,4 +6,4 @@ author_profile: false
 classes: wide
 ---
 
-[cv](/files/CV_dizhi_0919.pdf).
+[cv](/files/CV_dizhi0919.pdf).
