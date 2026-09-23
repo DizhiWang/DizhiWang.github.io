@@ -8,7 +8,7 @@ classes: wide
 
 ## **Working Paper**  
 
-### **Globalization with Capital Integration and Spatial Entry**  [working paper](/files/Capital_Mobility_Intermediate_Input_0918.pdf).
+### **Globalization with Capital Integration and Spatial Entry**  [working paper](/files/Capital_Mobility_Intermediate_Input_0923.pdf).
 
 
 **Abstract**  
