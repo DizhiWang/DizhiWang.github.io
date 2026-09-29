@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-### [Globalization with Capital Integration and Spatial Entry](/files/Capital_Mobility_Intermediate_Input_0928.pdf) (Job Market Paper)
+### [Globalization with Capital Integration and Spatial Entry](/files/JMP_latest.pdf) (Job Market Paper)
 
 
 **Abstract**  
