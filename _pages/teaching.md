@@ -11,7 +11,7 @@ classes: wide
 
 <h3 style="color:rgb(78, 145, 165);"> Undergraduate Courses </h3>
 
-### <u>ECON 197: Economic Rhetoricy</u>
+### <u>ECON 197: Economic Rhetoric</u>
 - Winter 2025 (Julie Gonzalez)
 
 ### <u>ECON 2: Introductory Macroeconomics</u>
