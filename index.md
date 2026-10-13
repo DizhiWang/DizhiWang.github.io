@@ -49,6 +49,7 @@ classes: wide
     </p>
 
     <p>Email: <a href="mailto:dwang140@ucsc.edu">dwang140@ucsc.edu</a></p>
+    <p>CV: <a href="/files/DizhiCV_latest.pdf" target="_blank">Download CV (PDF)</a></p>
   </div>
 </div>
 
